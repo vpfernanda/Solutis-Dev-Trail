@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b2b32e-61d6-43fb-b71f-3f2c61f0f655" name="Changes" comment="&quot;Solucao da questao 5.&quot;">
-      <change afterPath="$PROJECT_DIR$/src/questao6/Main.java" afterDir="false" />
+    <list default="true" id="60b2b32e-61d6-43fb-b71f-3f2c61f0f655" name="Changes" comment="&quot;Solucao da questao 6.&quot;">
+      <change afterPath="$PROJECT_DIR$/src/questao7/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Application.questao4.Main.executor": "Run",
     "Application.questao5.Main.executor": "Run",
     "Application.questao6.Main.executor": "Debug",
+    "Application.questao7.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -57,7 +58,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.questao6.Main">
+  <component name="RunManager" selected="Application.questao7.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="questao3.Main" />
       <module name="Lista1" />
@@ -110,8 +111,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="questao7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao7.Main" />
+      <module name="Lista1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questao7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.questao7.Main" />
         <item itemvalue="Application.questao6.Main" />
         <item itemvalue="Application.questao5.Main" />
         <item itemvalue="Application.questao4.Main" />
@@ -160,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723997413646</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;Solucao da questao 6.&quot;">
+      <option name="closed" value="true" />
+      <created>1723998433323</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723998433323</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,7 +208,8 @@
     <MESSAGE value="&quot;Solucao da questao 3.&quot;" />
     <MESSAGE value="&quot;Solucao da questao 4.&quot;" />
     <MESSAGE value="&quot;Solucao da questao 5.&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solucao da questao 5.&quot;" />
+    <MESSAGE value="&quot;Solucao da questao 6.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solucao da questao 6.&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
