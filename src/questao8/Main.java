@@ -9,6 +9,7 @@ public class Main {
         String palavra = scanner.next();
         Palindromo palavraParaVerif = new Palindromo(palavra);
         System.out.println(palavraParaVerif.conferePalindromo());
+        scanner.close();
     }
 
 

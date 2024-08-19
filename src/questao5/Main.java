@@ -19,6 +19,6 @@ public class Main {
         else
             System.out.println("Você digitou "+dia+" que não é uma entrada válida para o dia da semana.");
 
-
+        scanner.close();
     }
 }

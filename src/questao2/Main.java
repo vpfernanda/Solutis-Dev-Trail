@@ -10,6 +10,7 @@ public class Main {
         int numero1 = scanner.nextInt();
         int numero2 = scanner.nextInt();
         System.out.println(retornaMaior(numero1, numero2));
+        scanner.close();
     }
 
     public static String retornaMaior(int num1, int num2){

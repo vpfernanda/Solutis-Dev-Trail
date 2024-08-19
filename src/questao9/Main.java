@@ -11,5 +11,6 @@ public class Main {
         double area = (raio * raio) * PI;
         area = Math.ceil(area); //valor arredondado.
         System.out.println("Área: "+area);
+        scanner.close();
     }
 }

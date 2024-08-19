@@ -9,5 +9,6 @@ public class Main {
         double milhas = scanner.nextDouble();
         double km = milhas * 1.609;
         System.out.println(milhas+" milhas equivalem a "+km+" km.");
+        scanner.close();
     }
 }
