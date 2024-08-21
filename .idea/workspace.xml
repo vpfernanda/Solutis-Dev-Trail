@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b2b32e-61d6-43fb-b71f-3f2c61f0f655" name="Changes" comment="&quot;Solucao da questao 6.&quot;">
-      <change afterPath="$PROJECT_DIR$/src/questao7/Main.java" afterDir="false" />
+    <list default="true" id="60b2b32e-61d6-43fb-b71f-3f2c61f0f655" name="Changes" comment="&quot;Solucao da questao 12.&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "vpfernanda"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vpfernanda&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vpfernanda/Solutis-Dev-Trail.git",
-    "accountId": "a7c5d5ab-c4fb-4e33-867e-a896b2d24e68"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vpfernanda/Solutis-Dev-Trail.git&quot;,
+    &quot;accountId&quot;: &quot;a7c5d5ab-c4fb-4e33-867e-a896b2d24e68&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/questao8/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -47,24 +49,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.questao10.Main.executor": "Debug",
+    "Application.questao11.Main.executor": "Run",
+    "Application.questao12.Main.executor": "Run",
     "Application.questao4.Main.executor": "Run",
     "Application.questao5.Main.executor": "Run",
     "Application.questao6.Main.executor": "Debug",
     "Application.questao7.Main.executor": "Run",
+    "Application.questao8.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ferna/IdeaProjects/Lista1/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.questao7.Main">
+  <component name="RunManager" selected="Application.questao12.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questao3.Main" />
+      <option name="MAIN_CLASS_NAME" value="questao9.Main" />
       <module name="Lista1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="questao3.*" />
+          <option name="PATTERN" value="questao9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="questao4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questao4.Main" />
+    <configuration name="questao10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao10.Main" />
       <module name="Lista1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="questao4.*" />
+          <option name="PATTERN" value="questao10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="questao5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questao5.Main" />
+    <configuration name="questao11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao11.Main" />
       <module name="Lista1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="questao5.*" />
+          <option name="PATTERN" value="questao11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="questao6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questao6.Main" />
+    <configuration name="questao12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao12.Main" />
       <module name="Lista1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="questao6.*" />
+          <option name="PATTERN" value="questao12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="questao7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questao7.Main" />
+    <configuration name="questao8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao8.Main" />
       <module name="Lista1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="questao7.*" />
+          <option name="PATTERN" value="questao8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.questao7.Main" />
-        <item itemvalue="Application.questao6.Main" />
-        <item itemvalue="Application.questao5.Main" />
-        <item itemvalue="Application.questao4.Main" />
+        <item itemvalue="Application.questao12.Main" />
+        <item itemvalue="Application.questao11.Main" />
+        <item itemvalue="Application.questao10.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.questao8.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +189,47 @@
       <option name="project" value="LOCAL" />
       <updated>1723998433323</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;Solucao da questao 7.&quot;">
+      <option name="closed" value="true" />
+      <created>1724010686249</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724010686249</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;Solucao da questao 8.&quot;">
+      <option name="closed" value="true" />
+      <created>1724065012450</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724065012450</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;Solucao da questao 9.&quot;">
+      <option name="closed" value="true" />
+      <created>1724074770002</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724074770002</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;Solucao da questao 10.&quot;">
+      <option name="closed" value="true" />
+      <created>1724078451748</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724078451748</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;Solucao da questao 12.&quot;">
+      <option name="closed" value="true" />
+      <created>1724080550012</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724080550012</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,7 +255,12 @@
     <MESSAGE value="&quot;Solucao da questao 4.&quot;" />
     <MESSAGE value="&quot;Solucao da questao 5.&quot;" />
     <MESSAGE value="&quot;Solucao da questao 6.&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solucao da questao 6.&quot;" />
+    <MESSAGE value="&quot;Solucao da questao 7.&quot;" />
+    <MESSAGE value="&quot;Solucao da questao 8.&quot;" />
+    <MESSAGE value="&quot;Solucao da questao 9.&quot;" />
+    <MESSAGE value="&quot;Solucao da questao 10.&quot;" />
+    <MESSAGE value="&quot;Solucao da questao 12.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Solucao da questao 12.&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -223,6 +274,24 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/questao8/Palindromo.java</url>
+          <line>9</line>
+          <properties class="questao8.Palindromo" method="conferePalindromo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/questao10/ContadorCaracteres.java</url>
+          <line>33</line>
+          <properties class="questao10.ContadorCaracteres" method="analisarString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/questao6/Main.java</url>
           <line>12</line>
@@ -232,6 +301,11 @@
           <url>file://$PROJECT_DIR$/src/questao6/Main.java</url>
           <line>18</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/questao10/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
