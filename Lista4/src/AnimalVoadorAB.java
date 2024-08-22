@@ -4,7 +4,7 @@ public abstract class AnimalVoadorAB extends AnimalAB {
     protected int envergaduraAsas;
     protected int distanciaVoo;
 
-    public AnimalVoadorAB(String nome, int idade, double altura, double peso, String habitat) {
+    public AnimalVoadorAB(String nome, int idade, double altura, double peso, String habitat, int qtdAsas, int envergaduraAsas) {
         super(nome, idade, altura, peso, habitat);
         this.qtdAsas = qtdAsas;
         this.envergaduraAsas = envergaduraAsas;
