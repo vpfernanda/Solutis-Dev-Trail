@@ -1,5 +1,6 @@
 public interface AnimalIF {
-    public void comer();
-    public void moverse();
-    public void dormir();
+    //assinatura dos métodos abstratos
+    void comer();
+    void moverse();
+    void dormir();
 }
