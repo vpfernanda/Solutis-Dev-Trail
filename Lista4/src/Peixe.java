@@ -1,7 +1,26 @@
 public class Peixe extends AnimalMarinhoAB{
-    private final String ANIMAL = "Peixe";
+    private static final String ANIMAL = "Peixe";
 
     public Peixe(String nome, int idade, double altura, double peso, String habitat) {
-        super(nome, idade, altura, peso, habitat);
+        super(ANIMAL, nome, idade, altura, peso, habitat);
     }
+
+    @Override
+    public void moverse() {
+        super.moverse();
+        System.out.println(ANIMAL+ " nadou.");
+    }
+
+    @Override
+    public void comer() {
+        super.comer();
+        System.out.println(ANIMAL+" comeu.");
+    }
+
+    @Override
+    public void dormir() {
+        super.dormir();
+        System.out.println(ANIMAL+" dormiu.");
+    }
+
 }

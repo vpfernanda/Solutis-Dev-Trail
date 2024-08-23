@@ -1,14 +1,12 @@
 public abstract class AnimalMarinhoAB extends AnimalAB {
     protected final String TIPO = "Marinho";
     protected int distanciaNado;
+    protected String animal;
 
-    public int getDistanciaNado() {
-        return distanciaNado;
-    }
-
-    public AnimalMarinhoAB(String nome, int idade, double altura, double peso, String habitat) {
+    public AnimalMarinhoAB(String animal, String nome, int idade, double altura, double peso, String habitat) {
         super(nome, idade, altura, peso, habitat);
         this.distanciaNado = 0; //variavel começa com 0
+        this.animal = animal;
     }
 
     //o animal marinho se move nadando...
@@ -17,13 +15,27 @@ public abstract class AnimalMarinhoAB extends AnimalAB {
         nadar();
     }
 
-    //se ele
     public void nadar(){
         distanciaNado++;
     }
 
-    public String getTipo(){
+    /*Getters*/
+    public String getTIPO(){
         return TIPO;
+    }
+
+    public String getAnimal() {
+        return animal;
+    }
+
+    public int getDistanciaNado(){
+        return distanciaNado;
+    }
+
+    /*Setters*/
+
+    public void setDistanciaNado(int distanciaNado) {
+        this.distanciaNado = distanciaNado;
     }
 
 }
