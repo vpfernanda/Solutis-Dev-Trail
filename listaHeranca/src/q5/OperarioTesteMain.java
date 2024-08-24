@@ -1,7 +1,5 @@
 package q5;
 
-import q4.Administrador;
-
 public class OperarioTesteMain {
     public static void main(String[] args) {
         Operario op = new Operario("Alex", "33999999999", "Avenida Santos, 2501",
