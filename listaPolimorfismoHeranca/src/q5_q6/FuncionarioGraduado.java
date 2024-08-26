@@ -8,7 +8,11 @@ public class FuncionarioGraduado extends FuncionarioEnsinoMedio{
     {
         super(nome, codigoFunc, salario, escolaEnsinoBasico, escolaEnsinoMedio);
         this.universidade = universidade;
-        this.rendaBasica = super.rendaBasica * 2;
+    }
+
+    @Override
+    public double calculaRendaBasica() {
+        return super.calculaRendaBasica()*2.0;
     }
 
     public String getUniversidade() {

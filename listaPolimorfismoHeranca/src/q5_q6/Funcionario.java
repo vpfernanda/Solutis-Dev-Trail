@@ -3,18 +3,21 @@ package q5_q6;
 public class Funcionario {
     protected String nome;
     protected int codigoFunc;
-    protected double rendaBasica;
+    protected double rendaBasica = 1000;
     protected double salario;
 
     public Funcionario(String nome, int codigoFunc, double salario) {
         this.nome = nome;
         this.codigoFunc = codigoFunc;
         this.salario = salario;
-        rendaBasica = 1000;
     }
 
-    public double getRendaBasica() {
+    public double calculaRendaBasica() {
         return rendaBasica;
+    }
+
+    public double getRendaBasica(){
+        return calculaRendaBasica();
     }
 
     public void setRendaBasica(double rendaBasica) {
